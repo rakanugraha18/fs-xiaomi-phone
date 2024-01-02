@@ -26,3 +26,5 @@ Note: jika ingin melakukan update pada frontend masuk terlebih dahulu ke dalam d
 },
    4. test dengan cara >> npm run dev
    5. jika saat run atau melakukan update pada backend terdapat error maka cek pada error apakah ada error pada framework atau plugin maka solusinya bisa coba install framework atau plugin tersebut,, seperti contoh express, sequelize dll.
+
+Note: Mohon di samakan untuk password root mysqlnya 12345678
